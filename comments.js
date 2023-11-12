@@ -1,0 +1,40 @@
+// Create web server
+// 1. npm init
+// 2. npm install --save express
+// 3. npm install --save body-parser
+// 4. npm install --save cors
+// 5. npm install --save mongoose
+// 6. npm install --save nodemon
+// 7. npm install --save mongoose-unique-validator
+// 8. npm install --save bcrypt
+// 9. npm install --save jsonwebtoken
+// 10. npm install --save multer
+// 11. npm install --save mongoose-beautiful-unique-validation
+// 12. npm install --save mongoose-unique-validator
+// 13. npm install --save mongoose-beautiful-unique-validation
+// 14. npm install --save mongoose-unique-validator
+// 15. npm install --save mongoose-beautiful-unique-validation
+// 16. npm install --save mongoose-unique-validator
+// 17. npm install --save mongoose-beautiful-unique-validation
+// 18. npm install --save mongoose-unique-validator
+// 19. npm install --save mongoose-beautiful-unique-validation
+// 20. npm install --save mongoose-unique-validator
+// 21. npm install --save mongoose-beautiful-unique-validation
+// 22. npm install --save mongoose-unique-validator
+// 23. npm install --save mongoose-beautiful-unique-validation
+// 24. npm install --save mongoose-unique-validator
+// 25. npm install --save mongoose-beautiful-unique-validation
+// 26. npm install --save mongoose-unique-validator
+// 27. npm install --save mongoose-beautiful-unique-validation
+// 28. npm install --save mongoose-unique-validator
+// 29. npm install --save mongoose-beautiful-unique-validation
+// 30. npm install --save mongoose-unique-validator
+// 31. npm install --save mongoose-beautiful-unique-validation
+// 32. npm install --save mongoose-unique-validator
+// 33. npm install --save mongoose-beautiful-unique-validation
+// 34. npm install --save mongoose-unique-validator
+// 35. npm install --save mongoose-beautiful-unique-validation
+// 36. npm install --save mongoose-unique-validator
+// 37. npm install --save mongoose-beautiful-unique-validation
+// 38. npm install --save mongoose-unique-validator
+// 39.
